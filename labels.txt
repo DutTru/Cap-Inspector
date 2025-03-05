@@ -1,0 +1,4 @@
+0 khong nap
+1 khong co gi
+2 nap dong chat
+3 nap khong chat
